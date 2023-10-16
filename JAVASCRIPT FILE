@@ -1,0 +1,19 @@
+// Declare variables with different data types
+var numberVar = 42;         // Number
+var stringVar = "Hello";    // String
+var booleanVar = true;      // Boolean
+
+// Log the values of the variables to the console
+console.log("Number Variable:", numberVar);
+console.log("String Variable:", stringVar);
+console.log("Boolean Variable:", booleanVar);
+
+// Perform some operations with the variables
+var result = numberVar + 8;  // Adding a number to a number
+console.log("Result of addition:", result);
+
+var concatenatedString = stringVar + " World!";  // Concatenating strings
+console.log("Concatenated String:", concatenatedString);
+
+var isGreaterThan50 = numberVar > 50;  // Comparing numbers
+console.log("Is numberVar greater than 50?", isGreaterThan50);
