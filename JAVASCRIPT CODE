@@ -1,0 +1,74 @@
+// Simple javascript code
+//The console.log() function is commonly used for debugging and logging information during development.
+//The console.log() statements are used to print the values of these variables to the console.
+console.log("hello, world!")
+
+// Log the values of the variables to the console
+console.log("Number Variable:", 17);
+console.log("String Variable:", Hennesse);
+console.log("Boolean Variable:", true);
+
+// Declare variables with different data types
+//  Variables declared with var are function-scoped, This means they are only available within the function where they are declared. 
+var numberVar = 42;         // Number
+var stringVar = "Hello";    // String
+var booleanVar = true;      // Boolean
+
+
+// Variables declared with let are block-scoped, This means they are only accessible within the block, statement, or expression where they are defined. 
+// Variable declaration and initialization
+let numberVar = 42; // Number
+let stringVar = "Hello, World!"; // String
+let booleanVar = true; // Boolean
+
+// Declare a constant variable
+const pi = 3.14159;
+
+// Display the value of the constant
+console.log("The value of pi is: " + pi);
+
+
+//Template literals are a way to concatenate strings in JavaScript using backticks (`).
+//They allow you to embed expressions or variables directly into the string
+
+// Declare variables
+let firstName = "John";
+let lastName = "Doe";
+let age = 30;
+
+// Create a string using a template literal
+let message = `Hello, my name is ${firstName} ${lastName}, and I am ${age} years old.`;
+
+// Display the message
+console.log(message);
+
+
+//Arrow functions are a concise way to write functions in JavaScript.
+//Arrow function
+const addNumbers= (a, b) => a + b;
+
+console.log("Arrow Function:", addNumbersArrow(6,8));
+//Use the alert() function to create an alert box and the confirm() function to create a confirm box with custom messages in JavaScript.
+// Confirm Box
+var confirmMessage = "Do you want to proceed?";
+var userResponse = confirm(confirmMessage);
+
+// Check user's response
+if (userResponse) {
+    console.log("User clicked OK");
+} else {
+    console.log("User clicked Cancel");
+}
+
+
+//Use the prompt() function in JavaScript to ask the user for input.
+// Prompt for user input
+var userInput = prompt("Please enter something:");
+
+// Display the input value
+if (userInput !== null) {
+    alert("You entered: " + userInput);
+} else {
+    alert("You clicked Cancel or closed the prompt.");
+}
+
