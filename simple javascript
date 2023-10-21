@@ -1,0 +1,14 @@
+// Define variables
+let name = "John";
+let age = 30;
+let isStudent = false;
+
+// Display messages in the console
+console.log("Hello, " + name + "!");
+console.log("You are " + age + " years old.");
+
+if (isStudent) {
+  console.log("You are a student.");
+} else {
+  console.log("You are not a student.");
+}
