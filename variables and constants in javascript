@@ -1,0 +1,25 @@
+// Variables
+let age = 25;
+let name = "John";
+let isStudent = true;
+
+// Constants
+const pi = 3.14159;
+const maxAttempts = 3;
+
+// Performing operations with variables and constants
+let birthYear = new Date().getFullYear() - age;
+let greeting = "Hello, " + name + "!";
+let canVote = age >= 18;
+let circleArea = pi * Math.pow(5, 2); // Calculating the area of a circle with radius 5
+let remainingAttempts = maxAttempts - 1;
+
+// Output the results
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("Is a Student:", isStudent);
+console.log("Birth Year:", birthYear);
+console.log("Greeting:", greeting);
+console.log("Can Vote:", canVote);
+console.log("Circle Area:", circleArea);
+console.log("Remaining Attempts:", remainingAttempts);
