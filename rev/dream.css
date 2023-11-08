@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:yellow;
+    margin: 5%;
+    padding: 0%;
+}
+
+h3 {
+    font-size: 24px;
+    color:blue;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h4 {
+    font-size: 18px;
+    color:brown;
+    text-align:left;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+h4 b {
+    text-align: left;
+    padding-left: 20px;
+}
+
+h5 {
+    font-size: 20px;
+    color:brown;
+    margin-top: 20px;
+    text-align: left;
+}
+
+ol b {
+    font-size: 16px;
+    color:brown;
+    text-align: left;
+    margin: 20px;
+}
+
+
+a.fa {
+    font-size: 24px;
+    margin: 10px;
+    text-decoration: none;
+    color:blue;
+}
+
+
+a.fa:hover {
+    color: #4267B2; 
+}
+
+a.fa-twitter {
+    color: #1DA1F2;
+}
+
+
+a.fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+
+
