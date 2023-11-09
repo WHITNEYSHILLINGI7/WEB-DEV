@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REVEAL</title>
+    <link rel="stylesheet" href="dream.css">
+
+</head>
+<body>
+    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><br>
+
+ <br>
+<a href="https://www.facebook.com/" class="fa fa-facebook"></a><br>
+
+
+<a href="https://twitter.com/i/flow/login" class="fa fa-twitter"></a>
+    <h3><em>PERSONAL BIO OF WHITNEY N SHILLINGI</em></h3>
+    <h4><b>
+
+NAME: <em>WHITNEY NINSIIMA SHILLINGI</em><br>
+
+AGE : 20 <br>
+DOB : 26/012/2003 <br>
+ADDRESS: <em>SEETA</em> <br>
+RELATIONSHIP STATUS: <em>SINGLE</em><br>
+FAVOURITE DISH: <em>YOGHURT AT THE MOMENT</em><br>
+<img src="https://www.bigbasket.com/media/uploads/p/l/40123244_5-milky-mist-fruit-yoghurt-strawberry.jpg" alt="" width="90" height="80"><br>
+<br>
+ OCCUPATION:<em>STUDENT</em> <br>
+EDUCATION: <em>UCU, MAIN CAMPUS</em> <br>
+COURSE: <em>BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY</em> <br>
+GOALS: <em>TO ATTAIN GOOD GRADES</em><br>
+    </h4></b>
+<h5> HOBBIES</h5>
+<ol><b>
+     <em>SWIMMING</em><br>
+    <img src="./imgs/download.jfif" alt=""width="100" height="90"><br>
+     <em>SLEEPING</em><br>
+     <img src="./imgs/sleeping beauty.jfif" alt=""width="100" height="90"><br>
+     <em>WATCHING HORROR MOVIES</em> <br>
+     <img src="./imgs/horrors.jfif" alt="" width="100" height="90"><br>
+     <em>LISTENING TO SERMONS </em><br>
+     <img src="./imgs/sermons.jfif" alt="" width="100" height="90"><br>   
+     <em>WATCHING YOUTUBE SHORTS</em> <br>
+     <br>
+     <img src="./imgs/youtube.jfif" alt="" width="100" height="90"><br>
+</b></ol>
+
+
+</body>
+</html>
